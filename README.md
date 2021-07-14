@@ -1,4 +1,4 @@
-# fylo-dark-theme-landing-page-challenge (Fully-Responsive)
+# fylo-dark-theme-landing-page-challenge 
 I tried the fylo-dark-theme-landing-page-challenge by the Frontend Mentor.
 
 1
